@@ -1,0 +1,14 @@
+
+table tr th {text-align: center ;}
+ table tr td {text-align: center ;}
+  
+#myform label {display:inline-block;width:175px;}
+#myform select {display:inline-block;width:175px;}
+#myform input {display:inline-block;}
+#myform input [type=submit] { color:#fff;background-color:green;}
+#myform.v{
+	color:#fff;background-color:green;
+}
+#myform{
+	margin-top: 50px; 
+}
